@@ -1,0 +1,24 @@
+.question-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin: 1rem;
+}
+
+.question-label {
+    text-align: start;
+    font-weight: bold;
+}
+
+.question-text {
+    width: 30rem;
+}
+
+.question-number {
+    width: 5rem;
+}
+
+.question-error {
+    color: red;
+    text-align: start;
+}

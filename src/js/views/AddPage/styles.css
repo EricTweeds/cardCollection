@@ -1,0 +1,24 @@
+.add-page-container {
+    width: 30%;
+    margin: auto;
+    border: 1px solid #000;
+    margin-top: 3rem;
+    padding: 1rem;
+    background-color: #98D2EB;
+    box-shadow: 5px 5px 2px grey;
+}
+
+.add-page-row {
+    margin-top: 3rem;
+}
+
+.add-page-group {
+   display: flex;
+   flex-direction: row;
+   justify-items: start; 
+}
+
+.add-page-success {
+    color: green;
+    margin: 0.5rem;
+}

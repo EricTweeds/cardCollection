@@ -9,4 +9,15 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+}
+
+.header-home-button {
+    position: fixed;
+}
+
+.header-title {
+    margin: auto;
 }
